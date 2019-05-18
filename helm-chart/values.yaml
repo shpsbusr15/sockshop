@@ -4,7 +4,7 @@ carts:
     image:
         pullPolicy: IfNotPresent
         repository: 10.43.254.94:5000/sockshop/carts
-        tag: 0.7.0-1
+        tag: 0.7.0-2
     replicaCount: 1
     resources:
         limits:
